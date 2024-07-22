@@ -15,11 +15,11 @@ document.querySelectorAll("img")[1].setAttribute("src",randomimagesrc2);
 
 if(randomvar1>randomvar2)
 {
-    document.querySelector("h1").innerHTML="Player 1 Wins";
+    document.querySelector("h1").innerHTML="Sabaj Wins";
 }
 else if(randomvar1<randomvar2)
 {
-    document.querySelector("h1").innerHTML="Player 2 Wins";
+    document.querySelector("h1").innerHTML="Avani Wins";
 }
 else
 {
